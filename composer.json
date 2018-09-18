@@ -1,0 +1,14 @@
+{
+    "name": "simpod/php-protobuf-stubs",
+    "description": "Protobuf extension stubs for your IDE",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Podlipsky",
+            "email": "simon@podlipsky.net"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    }
+}
